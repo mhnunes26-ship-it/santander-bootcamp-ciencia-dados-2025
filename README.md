@@ -1,4 +1,5 @@
 DESAFIO DASHBOARD
+
 Foram construídos dois dashboards embasados nas informações extraídas da base de dados:
 
 1. Receita
