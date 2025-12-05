@@ -1,4 +1,4 @@
-Foram construídos dois dashboards baseados na informações extraídas da base de dados:
+Foram construídos dois dashboards baseados nas informações extraídas da base de dados:
 
 1. Receita
 - Qual a receita por tipo de plano (Core, Standard, Ultimate)?
